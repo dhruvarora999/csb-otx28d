@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dhruvarora999.github.io/csb-otx28d/static/css/main.9b230082.chunk.css",
+    "main.js": "https://dhruvarora999.github.io/csb-otx28d/static/js/main.4acfbf26.chunk.js",
+    "main.js.map": "https://dhruvarora999.github.io/csb-otx28d/static/js/main.4acfbf26.chunk.js.map",
+    "runtime-main.js": "https://dhruvarora999.github.io/csb-otx28d/static/js/runtime-main.592eab44.js",
+    "runtime-main.js.map": "https://dhruvarora999.github.io/csb-otx28d/static/js/runtime-main.592eab44.js.map",
+    "static/js/2.3bfed373.chunk.js": "https://dhruvarora999.github.io/csb-otx28d/static/js/2.3bfed373.chunk.js",
+    "static/js/2.3bfed373.chunk.js.map": "https://dhruvarora999.github.io/csb-otx28d/static/js/2.3bfed373.chunk.js.map",
+    "index.html": "https://dhruvarora999.github.io/csb-otx28d/index.html",
+    "static/css/main.9b230082.chunk.css.map": "https://dhruvarora999.github.io/csb-otx28d/static/css/main.9b230082.chunk.css.map",
+    "static/js/2.3bfed373.chunk.js.LICENSE.txt": "https://dhruvarora999.github.io/csb-otx28d/static/js/2.3bfed373.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.592eab44.js",
+    "static/js/2.3bfed373.chunk.js",
+    "static/css/main.9b230082.chunk.css",
+    "static/js/main.4acfbf26.chunk.js"
+  ]
+}
